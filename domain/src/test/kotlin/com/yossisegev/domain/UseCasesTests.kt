@@ -11,7 +11,7 @@ import com.yossisegev.domain.entities.MovieEntity
 import com.yossisegev.domain.entities.Optional
 import com.yossisegev.domain.usecases.*
 import io.reactivex.Observable
-import junit.framework.Assert.assertNotNull
+import org.junit.Assert.assertNotNull
 import org.junit.Test
 import org.mockito.Mockito
 import org.mockito.Mockito.`when`
