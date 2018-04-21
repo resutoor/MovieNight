@@ -1,3 +1,5 @@
+![build badge](https://app.codeship.com/projects/76f6c0c0-27d3-0136-a7af-76568d97e0d2/status?branch=master)
+
 # MovieNight
 
 ### Summary: ###
